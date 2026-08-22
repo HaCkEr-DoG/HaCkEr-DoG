@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./thor-animation-2.gif"
+  <img src="./thor-animation.gif"
        alt="Thor Animation"
        width="100%">
 </p>
